@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67a05e27-383a-42eb-9592-cefbe39554ba" name="Changes" comment="test 2-0" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Goga-ton&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Goga-ton/Zerocoder_AB.git&quot;,
+    &quot;accountId&quot;: &quot;ac227246-2a5c-49d9-8bbe-7b45b295db72&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zg8567AtQdJYE0aZ45EKydkwG9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.DZ_OB01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OB02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OB03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OB04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OB06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OB5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OG02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OP08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OP09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB01_Klass-Bank.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB01_Klass-Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB01_Klass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB02_Incapsuljacija.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB02_Nasledovanie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB03_Compozic-Agregac-Polimorf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB03_Compozicii.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB03_Praktika.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB04_SOLID.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OB05_Pygame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OP09_Telegram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practicum OB (Тема 4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test 5.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anton_B/PycharmProjects/PythonProjectTK&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton_B\PycharmProjects\PythonProjectTK" />
+      <recent name="C:\Users\Anton_B\PycharmProjects\PythonProjectTK\DZ" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OB04_SOLID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProjectTK" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OB04_SOLID.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.OB04_SOLID" />
+        <item itemvalue="Python.OB04_SOLID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67a05e27-383a-42eb-9592-cefbe39554ba" name="Changes" comment="" />
+      <created>1752141170136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752141170136</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add DZ_OG02">
+      <option name="closed" value="true" />
+      <created>1752244636576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752244636576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pereustanovka">
+      <option name="closed" value="true" />
+      <created>1752244743185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752244743185</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add DZ_OG02">
+      <option name="closed" value="true" />
+      <created>1752244815811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752244815811</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add new class">
+      <option name="closed" value="true" />
+      <created>1752584025238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752584025238</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add new class">
+      <option name="closed" value="true" />
+      <created>1752687328761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752687328761</updated>
+    </task>
+    <task id="LOCAL-00006" summary="18/07/2025">
+      <option name="closed" value="true" />
+      <created>1752827476595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752827476595</updated>
+    </task>
+    <task id="LOCAL-00007" summary="18/07/2025 v2">
+      <option name="closed" value="true" />
+      <created>1752843656587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752843656587</updated>
+    </task>
+    <task id="LOCAL-00008" summary="18/07/2025 v2">
+      <option name="closed" value="true" />
+      <created>1753204183937</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753204183937</updated>
+    </task>
+    <task id="LOCAL-00009" summary="18/07/2025 v2">
+      <option name="closed" value="true" />
+      <created>1753707740165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753707740165</updated>
+    </task>
+    <task id="LOCAL-00010" summary="29/07/2025 v1">
+      <option name="closed" value="true" />
+      <created>1753771463877</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753771463877</updated>
+    </task>
+    <task id="LOCAL-00011" summary="31/07/2025 v1">
+      <option name="closed" value="true" />
+      <created>1753969467771</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753969467772</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <option name="closed" value="true" />
+      <created>1754657141162</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1754657141162</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test">
+      <option name="closed" value="true" />
+      <created>1754657155109</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754657155109</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test 2">
+      <option name="closed" value="true" />
+      <created>1754657247267</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1754657247267</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test 2">
+      <option name="closed" value="true" />
+      <created>1754657432062</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1754657432062</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test 1-1">
+      <option name="closed" value="true" />
+      <created>1754658567816</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1754658567816</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test 1-1">
+      <option name="closed" value="true" />
+      <created>1754658612300</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1754658612300</updated>
+    </task>
+    <task id="LOCAL-00018" summary="test 1-2">
+      <option name="closed" value="true" />
+      <created>1754658721218</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1754658721218</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test 1-3">
+      <option name="closed" value="true" />
+      <created>1754658804842</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1754658804842</updated>
+    </task>
+    <task id="LOCAL-00020" summary="test 1-4">
+      <option name="closed" value="true" />
+      <created>1754890514621</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1754890514621</updated>
+    </task>
+    <task id="LOCAL-00021" summary="test 2-0">
+      <option name="closed" value="true" />
+      <created>1754992655501</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1754992655501</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test 2-0">
+      <option name="closed" value="true" />
+      <created>1754993361494</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1754993361494</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Zerocoder_AB/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pereustanovka" />
+    <MESSAGE value="Add DZ_OG02" />
+    <MESSAGE value="Add new class" />
+    <MESSAGE value="18/07/2025" />
+    <MESSAGE value="18/07/2025 v2" />
+    <MESSAGE value="29/07/2025 v1" />
+    <MESSAGE value="31/07/2025 v1" />
+    <MESSAGE value="test" />
+    <MESSAGE value="test 2" />
+    <MESSAGE value="test 1-1" />
+    <MESSAGE value="test 1-2" />
+    <MESSAGE value="test 1-3" />
+    <MESSAGE value="test 1-4" />
+    <MESSAGE value="test 2-0" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 2-0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DZ/DZ_OB03.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DZ/DZ_OB03.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DZ/DZ_OB03.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
