@@ -29,7 +29,7 @@ class Game:
         player_turn = 1 # 0 - игрок, 1 - компьютер
 
         while self.player.is_alives() and self.computer.is_alives():
-            if player_turn == 0:
+            if player_turn == 1:
                 self.player.attack(self.computer)
             else:
                 self.computer.attack(self.player)
