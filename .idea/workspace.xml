@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67a05e27-383a-42eb-9592-cefbe39554ba" name="Changes" comment="test 2-0" />
+    <list default="true" id="67a05e27-383a-42eb-9592-cefbe39554ba" name="Changes" comment="add DZ_PV02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,7 +43,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Goga-ton/Zerocoder_AB.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Goga-ton/PyCharm_Zerocoder-AB.git&quot;,
     &quot;accountId&quot;: &quot;ac227246-2a5c-49d9-8bbe-7b45b295db72&quot;
   }
 }</component>
@@ -57,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.DZ_OB01.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_OB02.executor&quot;: &quot;Run&quot;,
@@ -67,6 +72,7 @@
     &quot;Python.DZ_OG02.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_OP08.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_OP09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_PV02.executor&quot;: &quot;Run&quot;,
     &quot;Python.OB01_Klass-Bank.executor&quot;: &quot;Run&quot;,
     &quot;Python.OB01_Klass-Game.executor&quot;: &quot;Run&quot;,
     &quot;Python.OB01_Klass.executor&quot;: &quot;Run&quot;,
@@ -92,6 +98,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton_B\PycharmProjects\PythonProjectTK\Sait" />
       <recent name="C:\Users\Anton_B\PycharmProjects\PythonProjectTK" />
       <recent name="C:\Users\Anton_B\PycharmProjects\PythonProjectTK\DZ" />
     </key>
@@ -317,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754993361494</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add DZ_PV02">
+      <option name="closed" value="true" />
+      <created>1755768032504</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1755768032504</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,7 +373,8 @@
     <MESSAGE value="test 1-3" />
     <MESSAGE value="test 1-4" />
     <MESSAGE value="test 2-0" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 2-0" />
+    <MESSAGE value="add DZ_PV02" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DZ_PV02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
