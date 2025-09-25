@@ -1,16 +1,5 @@
-import requests
+from googletrans import Translator
 
-url = 'https://jsonplaceholder.typicode.com/posts'
-
-dataSP = {
-    "tittle" : "Тестовый post запрос",
-    "body" : "Тестовый контент post запроса",
-    "userID" : 2
-}
-
-response = requests.post(url, data = dataSP)
-
-print(response.status_code)
-
-print(f'ответ - {response.json()}')
-
+trans = Translator()
+res = trans.translate("dog", dest="ru" )
+print(res.text)

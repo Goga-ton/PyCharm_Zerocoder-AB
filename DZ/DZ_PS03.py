@@ -1,5 +1,8 @@
 import requests as rq
 from bs4 import BeautifulSoup as bs
+from googletrans import Translator
+
+trans = Translator()
 
 def get_english_words():
     url = "https://randomword.com/"
@@ -22,13 +25,15 @@ def word_games():
         word_dict = get_english_words()
         word = word_dict.get("eng_w")
         opis = word_dict.get("w_def")
+        word_ru = trans.translate(word, dest='ru')
+        opis_ru = trans.translate(opis, dest='ru')
 
-        print(f"значение слова - {opis}")
+        print(f"значение слова - {opis_ru.text}")
         user = input("Что это за слово? - ")
         if user == word:
             print("Вы угадали")
         else:
-            print(f"Ответ НЕ ВЕРНЫЙ, было загадано - {word}")
+            print(f"Ответ НЕ ВЕРНЫЙ, было загадано - ''{word}'' переводиться как: ''{word_ru.text}''")
 
         play_again = input ("Хотите сыграть еще раз y/n: ")
         if play_again != "y":
