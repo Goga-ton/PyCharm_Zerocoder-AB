@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67a05e27-383a-42eb-9592-cefbe39554ba" name="Changes" comment="add DZ_PV02">
+    <list default="true" id="67a05e27-383a-42eb-9592-cefbe39554ba" name="Changes" comment="add html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -70,8 +71,10 @@
     &quot;Python.DZ_OB06.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_OB5.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_OG02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_OP04.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_OP08.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_OP09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ_PS02.executor&quot;: &quot;Run&quot;,
     &quot;Python.DZ_PV02.executor&quot;: &quot;Run&quot;,
     &quot;Python.OB01_Klass-Bank.executor&quot;: &quot;Run&quot;,
     &quot;Python.OB01_Klass-Game.executor&quot;: &quot;Run&quot;,
@@ -84,8 +87,10 @@
     &quot;Python.OB04_SOLID.executor&quot;: &quot;Run&quot;,
     &quot;Python.OB05_Pygame.executor&quot;: &quot;Run&quot;,
     &quot;Python.OP09_Telegram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PS02_HTTP.executor&quot;: &quot;Run&quot;,
     &quot;Python.Practicum OB (Тема 4).executor&quot;: &quot;Run&quot;,
     &quot;Python.Test 5.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test-Two.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.arithmetic.executor&quot;: &quot;Run&quot;,
@@ -332,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755768032504</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add html">
+      <option name="closed" value="true" />
+      <created>1757324092863</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757324092863</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,7 +387,8 @@
     <MESSAGE value="test 1-4" />
     <MESSAGE value="test 2-0" />
     <MESSAGE value="add DZ_PV02" />
-    <option name="LAST_COMMIT_MESSAGE" value="add DZ_PV02" />
+    <MESSAGE value="add html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
