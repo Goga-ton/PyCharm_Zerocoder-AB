@@ -1,4 +1,46 @@
+# Открытие страниц и их скриншот
+from selenium import webdriver
+
+import time
+
+browser = webdriver.Firefox()
+browser.get("https://en.wikipedia.org/wiki/Document_Object_Model")
+browser.save_screenshot("Hoome.png")
+time.sleep(4)
+browser.get("https://en.wikipedia.org/wiki/Selenium")
+browser.save_screenshot("Selenium.png")
+time.sleep(4)
+browser.refresh()
+browser.quit()
+
+
+# Вводим в поисковую строку запрос и открываем ссылку на станице результатов поиска
+
+from selenium import webdriver
+from selenium.webdriver import Keys
+from selenium.webdriver.common.by import By
+import time
+
+browser = webdriver.Firefox()
+browser.get("https://ru.wikipedia.org/wiki/Кошка")
+
+assert "Кошка — Википедия" in browser.title
+time.sleep(2)
+
+search_box = browser.find_element(By.ID, "searchInput")
+search_box.send_keys("Солнечная система")
+search_box.send_keys(Keys.RETURN)
+
+time.sleep(3)
+a = browser.find_element(By.LINK_TEXT, "Солнечная система")
+a.click()
+time.sleep(5)
+
+browser.quit()
+
+
 # выбирает абзатцы и выводит их по интер и переходит по рандомным ссылкам
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import random
@@ -25,4 +67,3 @@ print(stat)
 stat = random.choice(stat)
 link = stat.find_element(By.TAG_NAME, "a").get_attribute("href")
 browser.get(link)
-

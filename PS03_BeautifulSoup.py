@@ -16,7 +16,9 @@ links = soup.find_all('a')
 for link in links:
     print(link.get('href'))
 
+
 # Lesson-2 (поиск по тегам и классам)
+
 import requests as rq
 from bs4 import BeautifulSoup as bs
 
